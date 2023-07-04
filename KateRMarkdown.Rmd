@@ -13,11 +13,15 @@ urlcolor: blue
 
 \newpage
 
+> **Note**
+
 # Why are we here?
 [![A Non Reproducible workflow](figures/NonReproducibleWorkflow.PNG)](https://www.youtube.com/watch?v=s3JldKoA0zw\\&t=5s)
 
 
 \newpage
+> **Warning**
+
 # Introducing RMarkdown
 That's why we are playing around with `RMarkdown` today.  
 Clearly, there's no best way of doing so than throwing in a bunch of *Cats*.
