@@ -12,6 +12,9 @@ Go to the **[Gallery](Gallery/README.md)** to see the Students projects
 
 ## Getting started with R Markdown  
 
+**Complete list of Git Markdown emojis**
+[See the complete list of Git Markdown emojis](https://gist.github.com/rxaviers/7360908)
+
 **Date**  
 Tuesday May 2, 2023 (14:00 - 16:00)  
 Thursday May 4, 2023 (10:00 - 12:00)
